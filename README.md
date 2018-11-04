@@ -1,1 +1,1 @@
-# Sinyal-Uygulama2
+# Sinyal-HW2
